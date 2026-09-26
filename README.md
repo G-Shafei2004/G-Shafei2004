@@ -1,12 +1,5 @@
-## Hi there 👋
-�
-�
-�
-Load image
-Load image
-Load image
 
-🟣 About Me
+## About Me
 I'm Ghulam Ali, a Computer Science student at Astana IT University, working
 through the fundamentals deeply rather than skimming them: functional
 programming (C# and Scala via the EPFL specialization), discrete mathematics,
